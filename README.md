@@ -1,2 +1,3 @@
 # responsive-website-Lokuri
-tutorial practice
+tutorial practice:
+ https://hakimbahrom.github.io/responsive-website-Lokuri/
